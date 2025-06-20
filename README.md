@@ -28,7 +28,8 @@ Este proyecto me ayudó a practicar:
 - Manipulación del DOM en JavaScript.
 - Manejo de eventos (Onclick).
 - Estructuración básica de un proyecto web.
-
+## Puedes ver este proyecto desplegado en vivo (github page)
+ -https://keidis15.github.io/calculando_total.github.io/
 ## ✍️ Autor
 
 Hecho por Keidis Suarez.
